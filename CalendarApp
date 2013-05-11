@@ -1,0 +1,5 @@
+Hi guys, I'm kind of new to this github. But i've gotten used to it except that i'm hoping that you guys could help me
+with something regarding Java RMI. I'm designing a calendar application in Distributed systems and it's supposed to store 
+different events ranging from user(private), group events and public events. It's also supposed to alert a user of the upcoming
+events and allow a user to update(modify), add or view events. No offence but i've done it half way and just in case 
+you guys have the time and can help me, I'd be so appreciative. Thanks. good day
